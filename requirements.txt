@@ -1,0 +1,4 @@
+aiogram==3.17.0 
+aiosqlite==0.21.0 
+pip==25.0.1 
+APScheduler==3.11.0
